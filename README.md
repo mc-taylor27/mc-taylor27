@@ -31,9 +31,10 @@ Estou começando minha jornada, mas estas são as tecnologias que estou exploran
 
 <br>
 
-### 📫 Conecte-se Comigo
+### ✨ Conecte-se Comigo
+
+Sempre aberta para fazer novas conexões e trocar ideias! Bora? 😉
 
 <p align="left">
-  <a href="https://linkedin.com/in/[SEU-LINKEDIN]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/[SEU-INSTAGRAM]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/mari.taylorr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
