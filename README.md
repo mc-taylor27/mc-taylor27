@@ -6,7 +6,6 @@ Tenho 16 anos, moro em Osvaldo Cruz e sou uma desenvolvedora em formação, apai
 - 🌱 Atualmente estou no **primeiro ano de Desenvolvimento de Sistemas**.
 - 💻 Explorando o universo do front-end e aprendendo sobre as melhores práticas de programação.
 - 💬 Me chame para falar sobre **tecnologia, programação e novos projetos**.
-- 📫 Como me encontrar: [claram7419@gmail.com]
 
 <br>
 
@@ -38,3 +37,5 @@ Sempre aberta para fazer novas conexões e trocar ideias! Bora? 😉
 <p align="left">
   <a href="https://instagram.com/mari.taylorr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:claram7419@gmail.com)
