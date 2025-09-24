@@ -34,8 +34,5 @@ Estou começando minha jornada, mas estas são as tecnologias que estou exploran
 
 Sempre aberta para fazer novas conexões e trocar ideias! Bora? 😉
 
-<p align="left">
-  <a href="https://instagram.com/mari.taylorr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</p>
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mari.taylorr)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:claram7419@gmail.com)
